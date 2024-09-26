@@ -7,7 +7,7 @@ This repository contains a collection of fun and interactive Python games, inclu
 3. **Hand Cricket** : Play a simple version of cricket with the computer.
 4. **Rock Paper Scissors** : Classic game of Rock, Paper, Scissors against the computer.
 5. **Tic-Tac-Toe** : The popular 2-player game where you aim to get 3 in a row.
-6. 6. **Guess the City**: A fun guessing game where the player tries to guess a randomly selected city.
+6. **Guess the City**: A fun guessing game where the player tries to guess a randomly selected city.
 7. **GameZone** : A combination of all the games in one place, letting you select and play any game of your choice.
 
 # Games List 🎮
