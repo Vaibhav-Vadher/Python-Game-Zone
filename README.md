@@ -24,3 +24,7 @@ This repository contains a collection of fun and interactive Python games, inclu
 2. Simple and easy-to-understand Python code.
 3. Great for practicing Python programming with fun interactive games.
 4. Modular: Play individual games or use the GameZone hub for access to all.
+
+# Requirements 🛠
+
+Python 3.x
