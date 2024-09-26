@@ -27,4 +27,4 @@ This repository contains a collection of fun and interactive Python games, inclu
 
 # Requirements 🛠
 
-Python 3.x
+**Python 3.x**
